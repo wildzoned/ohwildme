@@ -1,4 +1,29 @@
+# esto es titulo 1
+## esto es titulo 2
+### esto es titulo 3
+
+*este texto sera cursivo
+**este texto esta en negrito
+_puedes** combinar
+
+###### listas
+* sin orden
+* es asi como el gato
+* y
+* el
+* raton
+
+##listas en orden
+
+1. hola
+2. one to three
+
+##**imagenes
+![github logo](/images/logo.ping) 
+![foto personal](c://documents..)
+
 ## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/wildzoned/ohwildme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
